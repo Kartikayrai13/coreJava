@@ -9,7 +9,6 @@ public class Dateprac1 {
 		System.out.println();
 		SimpleDateFormat sdf= new SimpleDateFormat("dd/MM/yyyy");
 		String s=sdf.format(d);
-		System.out.println(s
-				);
+		System.out.println(s);
 	}
 }

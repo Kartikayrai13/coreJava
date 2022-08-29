@@ -1,7 +1,7 @@
 
 public class Fibocode {
 	public static void main (String args []){
-		int n=5;
+		int n=10;
 		int firstTerm=0;
 		int secondTerm=1;
 			System.out.println("fibonacci series till " +n +" terms ");
@@ -13,5 +13,6 @@ public class Fibocode {
 			secondTerm= nextTerm;
 		}		
 	}
+	
 }
 		

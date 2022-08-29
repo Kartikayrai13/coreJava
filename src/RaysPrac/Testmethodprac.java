@@ -26,6 +26,10 @@ public class Testmethodprac {
 		return pin;
 		
 	}
-
+	public int divide(int a,int b){
+		int divide=a/b;
+		System.out.println(divide);
+		return divide;
+	}
 }
 

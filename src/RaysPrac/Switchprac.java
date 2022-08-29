@@ -4,6 +4,7 @@ public class Switchprac {
 		int size=args.length;
 		switch(size){
 		case 0:
+			
 			System.out.println("Usage:java HelloAll1 n1 n2 n3..");
 			break;
 		case 1:
