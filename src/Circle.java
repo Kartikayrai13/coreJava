@@ -1,6 +1,6 @@
 package OOPPrachiMam;
 
-public class Circle {
+public class Circle extends Shape{
 	private int radius;
 	public final float pi=3.14f;
 	

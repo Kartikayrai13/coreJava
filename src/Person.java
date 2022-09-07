@@ -17,5 +17,15 @@ public class Person {
 		this.address = address;
 	}
 	
-	
+
+	public String getName() { // getter for name
+		return name;
+	}
+	public String getaddress() { // getter for address
+		return address;
+	}
+	public Date getDob() { // getter for dob
+		return dob;
+	}
+
 }
