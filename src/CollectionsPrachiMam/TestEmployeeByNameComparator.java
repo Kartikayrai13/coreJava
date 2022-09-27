@@ -5,7 +5,7 @@ import java.util.*;
 public class TestEmployeeByNameComparator {
 public static void main(String[] args) {
 	Employee e= new Employee();
-	e.setFname("Aman");
+	e.setFname("Shubham");
 	e.setLname("Sahu");
 	e.setId(1234);
 	
@@ -20,7 +20,7 @@ public static void main(String[] args) {
 	e2.setId(1236);
 	
 	Employee e3= new Employee();
-	e3.setFname("Neeraj");
+	e3.setFname("Shubham");
 	e3.setLname("Rathore");
 	e3.setId(1237);
 	
